@@ -41,7 +41,7 @@ Your user should be asked what they want to do, using one of the following comma
 
 ### Example
 
-```python
+```
 >>> What would you like to do? view list
 >>> Which shopping list would you like to see? 1
 tooth paste, q-tips, gum
