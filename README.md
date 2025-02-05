@@ -31,11 +31,11 @@ Your user should be asked what they want to do, using one of the following comma
  
 ### Functions
 
-* `update_list`:
+* `update_list(_int, _int, _str)`:
   * Takes in an integer representing the index of the shopping list, an integer representing the index of the item to update, and a string representing the new value for that item. Does not alter the length of the list.
-* `print_item`:
+* `print_item(_int, _int)`:
   * Takes an int representing the index of the shopping list followed by an int representing the index of the item to print.
-*   `print_list`:
+*   `print_list(_int)`:
   * Takes an int representing the index of the shopping list to print.
 * Add any other functions (and appropriate inputs) as you see fit.
 
