@@ -12,4 +12,6 @@ shopping_cart = [
 
 
 # functions
-
+def update_list(s_list):
+  row = int(input("Which list to update? "))
+  col = int(input("Which item in list to update? "))
